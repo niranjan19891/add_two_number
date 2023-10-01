@@ -1,4 +1,4 @@
-appengine-helloworld-python
+appengine-add-two-numbers-python
 ===========================
 
 ![status: inactive](https://img.shields.io/badge/status-inactive-red.svg)
